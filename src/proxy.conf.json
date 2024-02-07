@@ -1,0 +1,8 @@
+{
+    "/api": {
+      "target": "http://eimsdemo.mannaicorp.com.qa",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
+  
