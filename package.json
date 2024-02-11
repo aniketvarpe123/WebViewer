@@ -17,8 +17,9 @@
     "@angular/platform-browser": "^15.1.0",
     "@angular/platform-browser-dynamic": "^15.1.0",
     "@angular/router": "^15.1.0",
-    "@pdftron/pdfnet-node": "^10.6.0-5",
+    "@pdftron/pdfnet-node": "^10.7.0",
     "@pdftron/webviewer": "^10.0.0",
+    "officegen": "^0.6.5",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
@@ -27,8 +28,9 @@
     "@angular-devkit/build-angular": "^15.1.6",
     "@angular/cli": "~15.1.6",
     "@angular/compiler-cli": "^15.1.0",
+    "@types/jasmine": "^5.1.4",
     "@types/node": "^20.11.16",
     "fs-extra": "^11.1.0",
-    "typescript": "~4.9.4"
+    "typescript": "^4.9.5"
   }
 }
